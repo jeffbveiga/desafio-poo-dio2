@@ -30,4 +30,7 @@ public class Mentoria extends Conteudo{
                 ", data=" + data +
                 '}';
     }
+
+    public void setDate(LocalDate now) {
+    }
 }
